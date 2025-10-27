@@ -29,7 +29,7 @@ Assignment due: Response paper
 
 Assignments due: 
 
-- Paper topics, bibliography, and preliminary research for the final paper due. [“Sources for Digitized Archival Manuscript Collections” (PDF)](https://cpb-us-e2.wpmucdn.com/sites.utdallas.edu/dist/b/911/files/2021/03/Sources-for-Digitized-Archival-Manuscript-Collections.pdf) might be a good place to start.
+- Paper topics, bibliography, and preliminary research for the final paper due. {{% resource_link "7c303ac2-1a1d-4586-99c8-6159e8aaccc2" "“Sources for Digitized Archival Manuscript Collections” (PDF)" %}} might be a good place to start.
 - Response paper
 
 ## III. Sources Used by Historians
